@@ -1,0 +1,25 @@
+baseURL = "https://nithinkamath.me"
+languageCode = "en-us"
+title = "Gopesh's personal blog"
+paginate = 20
+
+[params]
+subtitle = "Building the Future, One Line of Code at a Time"
+thumbnail = "thumb.jpg"
+
+[taxonomies]
+   tag = "tags"
+   author = "authors"
+
+[menu]
+   [[menu.header]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+   [[menu.header]]
+      identifier = "thoughts"
+      name = "Thoughts"
+      url = "/blog"
+      weight = 2
