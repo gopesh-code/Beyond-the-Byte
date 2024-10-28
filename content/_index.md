@@ -27,7 +27,7 @@ What sets Beyond the Byte apart is our commitment to collaboration. This platfor
 
 Start Your Journey with Us
 At Beyond the Byte, we believe that tech and innovation are for everyone. By providing templates and tools, we aim to make it simple for anyone with a passion for technology to start their own journey, connect with like-minded individuals, and build an audience.
-------
+--------------
 
 *Published on 26th October 2024.*
 
