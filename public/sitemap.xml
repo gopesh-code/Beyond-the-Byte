@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/Beyond-the-Byte/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Beyond-the-Byte/tags/ai/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Beyond-the-Byte/tags/innovation/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Beyond-the-Byte/tags/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Beyond-the-Byte/blog/tech_trends/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Beyond-the-Byte/tags/technology/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Beyond-the-Byte/blog/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Beyond-the-Byte/authors/</loc>
-=======
     <loc>https://gopesh-code.github.io/Beyond-the-Byte/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -48,6 +24,5 @@
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gopesh-code.github.io/Beyond-the-Byte/authors/</loc>
->>>>>>> eabeb8e24a2e3b834cc8d6c3e5648c075e120424
   </url>
 </urlset>

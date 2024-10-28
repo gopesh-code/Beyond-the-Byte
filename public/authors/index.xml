@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <title>Authors on Beyond the Byte</title>
-    <link>http://localhost:1313/Beyond-the-Byte/authors/</link>
-    <description>Recent content in Authors on Beyond the Byte</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/Beyond-the-Byte/authors/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>Authors on Gopesh&#39;s personal blog</title>
-=======
-    <title>Authors on Beyond the Byte</title>
->>>>>>> dbbf3f7514e9e1171a55c7d15e36a8cea87e4c36
     <link>https://gopesh-code.github.io/Beyond-the-Byte/authors/</link>
     <description>Recent content in Authors on Beyond the Byte</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://gopesh-code.github.io/Beyond-the-Byte/authors/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> eabeb8e24a2e3b834cc8d6c3e5648c075e120424
   </channel>
 </rss>
