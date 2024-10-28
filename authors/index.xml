@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Beyond the Byte</title>
-    <link>https://gopesh-code.github.io/Beyond-the-Byte/authors/</link>
+    <link>https://www.gopesh.tech/authors/</link>
     <description>Recent content in Authors on Beyond the Byte</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://gopesh-code.github.io/Beyond-the-Byte/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.gopesh.tech/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
