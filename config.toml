@@ -2,10 +2,12 @@ baseURL = "https://www.gopesh.tech"
 languageCode = "en-us"
 title = "Beyond the Byte"
 paginate = 20
+canonifyURLs = true
 
 [params]
 subtitle = "Building the Future, One Line of Code at a Time"
 thumbnail = "thumb.jpg"
+domain = "www.gopesh.tech"
 
 [taxonomies]
    tag = "tags"
@@ -21,5 +23,5 @@ thumbnail = "thumb.jpg"
    [[menu.header]]
       identifier = "thoughts"
       name = "Thoughts"
-      url = "/blog"
+      url = "/blog/"
       weight = 2
