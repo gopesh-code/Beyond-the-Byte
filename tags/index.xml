@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <title>Tags on Beyond the Byte</title>
-    <link>http://localhost:1313/Beyond-the-Byte/tags/</link>
-    <description>Recent content in Tags on Beyond the Byte</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Beyond-the-Byte/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI</title>
-      <link>http://localhost:1313/Beyond-the-Byte/tags/ai/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Beyond-the-Byte/tags/ai/</guid>
-=======
-    <title>Tags on Gopesh&#39;s personal blog</title>
-=======
-    <title>Tags on Beyond the Byte</title>
->>>>>>> dbbf3f7514e9e1171a55c7d15e36a8cea87e4c36
     <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/</link>
     <description>Recent content in Tags on Beyond the Byte</description>
     <generator>Hugo</generator>
@@ -31,33 +13,20 @@
       <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/ai/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://gopesh-code.github.io/Beyond-the-Byte/tags/ai/</guid>
->>>>>>> eabeb8e24a2e3b834cc8d6c3e5648c075e120424
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/Beyond-the-Byte/tags/innovation/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Beyond-the-Byte/tags/innovation/</guid>
-=======
       <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/innovation/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://gopesh-code.github.io/Beyond-the-Byte/tags/innovation/</guid>
->>>>>>> eabeb8e24a2e3b834cc8d6c3e5648c075e120424
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/Beyond-the-Byte/tags/technology/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Beyond-the-Byte/tags/technology/</guid>
-=======
       <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/technology/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://gopesh-code.github.io/Beyond-the-Byte/tags/technology/</guid>
->>>>>>> eabeb8e24a2e3b834cc8d6c3e5648c075e120424
       <description></description>
     </item>
   </channel>
