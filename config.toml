@@ -1,6 +1,6 @@
 baseURL = "https://gopesh-code.github.io/Beyond-the-Byte/"
 languageCode = "en-us"
-title = "Gopesh's personal blog"
+title = "Beyond the Byte"
 paginate = 20
 
 [params]

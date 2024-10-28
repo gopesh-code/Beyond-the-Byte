@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Gopesh&#39;s personal blog</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Gopesh&#39;s personal blog</description>
+    <title>Tags on Beyond the Byte</title>
+    <link>http://localhost:1313/Beyond-the-Byte/tags/</link>
+    <description>Recent content in Tags on Beyond the Byte</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Beyond-the-Byte/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://localhost:1313/Beyond-the-Byte/tags/ai/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:1313/Beyond-the-Byte/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-      <link>http://localhost:1313/tags/innovation/</link>
+      <link>http://localhost:1313/Beyond-the-Byte/tags/innovation/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/innovation/</guid>
+      <guid>http://localhost:1313/Beyond-the-Byte/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
+      <link>http://localhost:1313/Beyond-the-Byte/tags/technology/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technology/</guid>
+      <guid>http://localhost:1313/Beyond-the-Byte/tags/technology/</guid>
       <description></description>
     </item>
   </channel>
