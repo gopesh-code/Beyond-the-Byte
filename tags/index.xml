@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Beyond the Byte</title>
-    <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/</link>
+    <link>https://www.gopesh.tech/tags/</link>
     <description>Recent content in Tags on Beyond the Byte</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gopesh-code.github.io/Beyond-the-Byte/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.gopesh.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/ai/</link>
+      <link>https://www.gopesh.tech/tags/ai/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://gopesh-code.github.io/Beyond-the-Byte/tags/ai/</guid>
+      <guid>https://www.gopesh.tech/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-      <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/innovation/</link>
+      <link>https://www.gopesh.tech/tags/innovation/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://gopesh-code.github.io/Beyond-the-Byte/tags/innovation/</guid>
+      <guid>https://www.gopesh.tech/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/technology/</link>
+      <link>https://www.gopesh.tech/tags/technology/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://gopesh-code.github.io/Beyond-the-Byte/tags/technology/</guid>
+      <guid>https://www.gopesh.tech/tags/technology/</guid>
       <description></description>
     </item>
   </channel>
