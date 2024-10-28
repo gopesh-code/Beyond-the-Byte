@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Technology on Beyond the Byte</title>
     <link>http://localhost:1313/Beyond-the-Byte/tags/technology/</link>
     <description>Recent content in Technology on Beyond the Byte</description>
@@ -13,6 +14,20 @@
       <link>http://localhost:1313/Beyond-the-Byte/blog/tech_trends/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Beyond-the-Byte/blog/tech_trends/</guid>
+=======
+    <title>Technology on Gopesh&#39;s personal blog</title>
+    <link>https://gopesh-code.github.io/Beyond-the-Byte/tags/technology/</link>
+    <description>Recent content in Technology on Gopesh&#39;s personal blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gopesh-code.github.io/Beyond-the-Byte/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>https://gopesh-code.github.io/Beyond-the-Byte/blog/tech_trends/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gopesh-code.github.io/Beyond-the-Byte/blog/tech_trends/</guid>
+>>>>>>> eabeb8e24a2e3b834cc8d6c3e5648c075e120424
       <description>&lt;p&gt;Celebrating the evolution of AI over the last decade! 🎉 From its early beginnings to now powering countless applications, the advancements in machine learning have opened up a world of possibilities for both businesses and individuals.&lt;/p&gt;&#xA;&lt;p&gt;The most exciting part? The democratization of AI tools that empower developers and innovators to create more accessible, smarter applications. We’re moving towards an era where AI will not only augment human capabilities but also make technology more intuitive and personalized.&lt;/p&gt;</description>
     </item>
   </channel>
